@@ -1,4 +1,4 @@
-L.mapbox.accessToken = "pk.eyJ1IjoiYnJ5bWNicmlkZSIsImEiOiJXN1NuOFFjIn0.3YNvR1YOvqEdeSsJDa-JUw";
+L.mapbox.accessToken = "MyMapboxTokenString";
 
 var titleField, cluster, userFields = [], urlParams = {};
 
